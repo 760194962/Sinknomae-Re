@@ -1,0 +1,54 @@
+# ========================================
+# Ren'Py launcher 預設
+# ========================================
+
+# Ren'Py 在執行時會修改的目錄
+/game/saves
+/game/cache
+
+# 編譯產物（每次執行重新生成；發布版本若已 release 應保留 .rpyc 以保證舊存檔可讀，
+# 但源碼倉庫不需要）
+/game/**/*.rpyc
+/game/**/*.rpymc
+
+# Ren'Py 可能生成的備份檔
+/game/**/*.bak
+/game/**/*.new
+/game/**/*.old
+
+# 錯誤、log、輸出
+/errors.txt
+/files.txt
+/image_cache.txt
+/log.txt
+/save_dump.txt
+/traceback.txt
+
+# launcher 生成的檔
+/dialogue.tab
+/dialogue.txt
+/strings.json
+
+# ========================================
+# 額外排除
+# ========================================
+
+# macOS 系統檔
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Windows 系統檔
+Thumbs.db
+Desktop.ini
+
+# 編輯器
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# 打包產物（避免不小心放進源碼樹）
+/dists/
+*.rpa
