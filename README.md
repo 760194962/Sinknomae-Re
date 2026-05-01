@@ -20,14 +20,13 @@ Pre-built binaries are attached to the [latest release](../../releases/latest):
 
 ## Screenshots
 
-<!-- Drop 2–3 screenshots into a /docs/screenshots folder and link them here.
-     A single GIF of the opening scene works even better.
+| | |
+|---|---|
+| ![Opening — two people sitting in the cafeteria](docs/screenshots/01_opening.png) | ![NVL-mode prose passage](docs/screenshots/02_nvl_passage.png) |
+| _Opening beat — single line over a dimmed photograph._ | _NVL-mode passage — prose density used as a structural device._ |
 
-![Opening scene](docs/screenshots/01_opening.png)
-![Conversation](docs/screenshots/02_conversation.png)
--->
-
-_Screenshots coming soon._
+![Sink scene — the title image](docs/screenshots/03_sink.png)
+_The sink — the recurring image the title is built around._
 
 ---
 
