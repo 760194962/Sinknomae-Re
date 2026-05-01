@@ -46,7 +46,7 @@ I built this end to end as a solo project. Specifically:
 - **Writing** — original Japanese script (`game/script.rpy`), including pacing, line breaks and the directing notes that drive the on-screen presentation.
 - **Ren'Py scripting & direction** — scene flow, custom transitions (e.g. the `aa_flash` short-fade for emphasis), NVL-mode usage with explicit `nvl clear` beats, music queueing, and timing of `pause` / `window hide` for cinematic beats.
 - **UI customization** — modified `screens.rpy` to skip the default title screen and jump straight into the story, and re-styled the bottom quick menu so it stays out of the way during reading.
-- **Photography & art direction** — every background is an original photograph I took on location, post-processed with [Milk](https://apps.apple.com/app/milk-filter/id1521210417) to produce the consistent painterly look across `bg_*` images.
+- **Photography & art direction** — every background is an original photograph I took on location, post-processed with [Milk](https://github.com/LucaSinUnaS/Milk-Filter) to produce the consistent painterly look across `bg_*` images.
 
 ---
 
