@@ -56,7 +56,6 @@ A few things worth pointing out if you're skimming the source:
 
 - **NVL-mode dialogue** with manually-placed `nvl clear` boundaries — used as a structural device, not just a display mode.
 - **Custom transitions** like `aa_flash = Fade(0.05, 0.0, 0.12, color="#ffffff")` defined alongside the dialogue for fine-grained directing.
-- **Click-to-reveal beats** using `window hide` / `pause` / `window show` to let the player sit with a background before the next line lands.
 - **Title-screen bypass** via `label splashscreen: jump start` so the demo feels more like a film and less like a software product.
 - **Bottom quick-menu restyle** in `screens.rpy` to reduce visual chrome.
 
@@ -67,7 +66,7 @@ A few things worth pointing out if you're skimming the source:
 - **Engine:** Ren'Py 8.x
 - **Language:** Ren'Py script (Python-flavored DSL)
 - **Font:** Source Han Sans (Light) — bundled
-- **Photo post:** Milk Filter (iOS)
+- **Photo post:** Milk Filter
 
 ---
 
