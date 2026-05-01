@@ -75,7 +75,7 @@ A few things worth pointing out if you're skimming the source:
 You'll need the [Ren'Py SDK](https://www.renpy.org/latest.html) (8.x).
 
 ```bash
-git clone https://github.com/<your-username>/Sinknomae-Re.git
+git clone https://github.com/760194962/Sinknomae-Re.git
 ```
 
 Then in the Ren'Py launcher:
